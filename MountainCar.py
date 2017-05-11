@@ -11,14 +11,7 @@ import gym
 
 #env = gym.envs.make("MountainCarContinuous-v0")
 env = gym.make("CartPole-v0")
-"""
-env.reset()
-for _ in range(1000):
-    env.render()
-    env.step(env.action_space.sample())
-    ヤッホー
-"""
-   
+
 for i_episode in range(20):
     observation = env.reset()
     for t in range(100):
