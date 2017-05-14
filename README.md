@@ -1,4 +1,4 @@
 # OpenAIGym
 OpenAIGym  MountainCar-v0  
-[detail](https://github.com/openai/gym/wiki/MountainCar-v0)
+[wiki](https://github.com/openai/gym/wiki/MountainCar-v0)
 
