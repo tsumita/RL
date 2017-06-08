@@ -1,13 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import sys
-sys.path.append("/Users/daisuke/.pyenv/versions/anaconda3-2.4.0/lib/python3.5/site-packages")
 import gym
 import numpy as np
 import math
 import random
 import matplotlib.pyplot as plt
-
 
 def Average_calculate(posi_grid, velo_grid):
     """ ガウス関数の中心を求める """
